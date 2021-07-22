@@ -1,3 +1,3 @@
-## Hi there, I'm lizzie! 👋 Welcome to my GitHub page! 
+## Hi there, I'm Lizzie! 👋 Welcome to my GitHub page! 
 
 
