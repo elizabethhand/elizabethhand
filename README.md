@@ -1,3 +1,3 @@
- 👋 Oh, hi there!
+## 👋 Oh, hi there!
 
 Welcome to my GitHub profile! 
