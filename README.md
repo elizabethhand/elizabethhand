@@ -1,8 +1,8 @@
-## Hi there, I'm Lizzie! 👋 
+## Hi there, I'm Lizzie! 👋  Welcome to my Github page!
 
-Welcome to my GitHub page! 
-
-* I am currently completing a 6 month intensive coding camp
-* I am looking for a Junior Software Engineering position
+:mortar_board: I am currently completing a 6 month intensive coding camp
+:computer: I am looking for a Junior Software Engineering position
+:briefcase: Background in Account Management
+:phone: You can reach me at elizabethghand@gmail.com or https://www.linkedin.com/in/elizabeth-hand-981880129/
 
 
