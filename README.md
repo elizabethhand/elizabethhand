@@ -1,4 +1,6 @@
-## Hi there, I'm Lizzie! 👋  Welcome to my Github page!
+## Hi there, I'm Lizzie! 👋  
+
+Welcome to my Github page!
 
 :mortar_board: I am currently completing a 6 month intensive coding camp<br />
 :computer: I am looking for a Junior Software Engineering position<br />
