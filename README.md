@@ -2,9 +2,8 @@
 
 Welcome to my Github page!
 
-:mortar_board: I am currently completing a 6 month intensive coding camp<br />
-:computer: I am looking for a Junior Software Engineering position<br />
-:briefcase: Background in account management<br />
+:computer: Junior Software Engineer at Intent.ly<br />
+:briefcase: Background in account management & digital marketing <br />
 :phone: You can reach me at elizabethghand@gmail.com or https://www.linkedin.com/in/elizabeth-hand-981880129/
 
 ## Languages and Tools
